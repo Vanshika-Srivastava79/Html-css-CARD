@@ -12,7 +12,4 @@ It displays a beautiful Utah sunset image, category capusles, description, and r
 - Soft shadows and rounded corners
 - Simple HTML+CSS
 - Category badges
-  
-## Webpage link
 
-🔗http://127.0.0.1:3000/1_Card.html
